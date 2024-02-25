@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+x-amz-id-2: sZEQWeDa8Nm1Lb9CLWmaTlZWzQkUxF01+G0S1fzu33PF1FrMs9n6m/vohgrN2rT4qJ02qYQSVz0=
+x-amz-request-id: 46B91DE95093B7B5
+Location: https://www.fubo.tv/
+Server: AmazonS3
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 21 Aug 2020 19:05:23 GMT
+Via: 1.1 varnish
+Age: 875
+Connection: close
+X-Served-By: cache-sin18037-SIN
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1598036723.114393,VS0,VE0
+

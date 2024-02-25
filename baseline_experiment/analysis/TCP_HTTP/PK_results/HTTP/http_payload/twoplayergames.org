@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:17:50 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Server: LiteSpeed
+Location: https://www.twoplayergames.org/
+X-Powered-By: PleskLin
+X-HW: 1598037470.cds013.fr8.h2,1598037470.cds212.fr8.sc,1598037470.cds212.fr8.p
+Connection: close
+Content-Length: 706
+

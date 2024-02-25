@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:56:26 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Fri, 21 Aug 2020 19:56:26 GMT
+Location: https://www.notebookcheck.net/
+cf-request-id: 04b3fa2d5b0000d3efd4281200000001
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 5c6692f55d56d3ef-KHI
+alt-svc: h2=":443"; ma=60
+
+0
+

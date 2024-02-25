@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+cache-control: no-cache,no-store,must-revalidate
+Content-Type: text/plain; charset=utf-8
+Date: Fri, 21 Aug 2020 19:05:49 GMT
+expires: 0
+Location: https://www.tripadvisor.co.uk/
+pragma: no-cache
+Server: Apache
+Timing-Allow-Origin: https://www.tripadvisor.com
+X-TA-CDN-Provider: Edgecast
+Content-Length: 0
+Connection: close
+

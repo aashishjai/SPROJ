@@ -1,0 +1,5 @@
+secure.proxpn.com nszero1.axc.nl. 86400 IN A 185.182.56.120  secure.proxpn.com
+search.privacytools.io eric.ns.cloudflare.com. 86353 IN A 173.245.59.112 eric.ns.cloudflare.com. 86353 IN A 172.64.33.112 eric.ns.cloudflare.com. 86353 IN A 108.162.193.112   search.privacytools.io
+lyg.gov.cn dns.lyg.gov.cn. 86400 IN A 61.132.0.10  lyg.gov.cn
+npe.br f.dns.br. 172800 IN A 200.219.159.10  npe.br
+desktx.cc ac3.nstld.com. 172800 IN A 192.42.175.30  desktx.cc

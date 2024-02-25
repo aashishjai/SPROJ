@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:59:21 GMT
+Server: Varnish
+X-Varnish: 591043472
+Location: http://www.ilgiornale.it/
+Content-Length: 0
+Connection: close
+

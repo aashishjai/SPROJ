@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine/unknown
+Date: Fri, 21 Aug 2020 19:14:35 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Location: http://www.wondershare.net/
+Expires: Tue, 20 Oct 2020 19:14:35 GMT
+Cache-Control: max-age=5184000
+
+11e
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine/unknown</body>
+</html>
+
+0
+

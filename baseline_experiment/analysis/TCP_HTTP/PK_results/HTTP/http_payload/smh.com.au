@@ -1,0 +1,21 @@
+ead><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.smh.com.au/">here</a>.</p>
+</body></html>
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 231
+Connection: close
+Date: Wed, 17 Jun 2020 09:24:39 GMT
+Location: https://www.smh.com.au/
+Server: Apache/2.4.7 (root)
+X-Cache: Hit from cloudfront
+Via: 1.1 a221a01292cf9e9a752119c783950637.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: ielqZgdY-3DAOW7pjPqUyJT90A6bySrqwRsBqA87n_wRYGhCTTcrtQ==
+Age: 5651028
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</h

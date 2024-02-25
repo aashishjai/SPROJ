@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:13:02 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da507a46fd482d6aea1daeeaaa8f19c471598037182; expires=Sun, 20-Sep-20 19:13:02 GMT; path=/; domain=.123moviesok.org; HttpOnly; SameSite=Lax
+Location: https://123movies2020.org/
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4095f6400001ac064b6f200000001
+Server: cloudflare
+CF-RAY: 5c66ab456e931ac0-SIN
+alt-svc: h2=":443"; ma=60
+
+ea
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://123movies2020.org/">here</a>.</p>
+</body></html>
+
+0
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:13:02 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da507a46fd482d6aea1daeeaaa8f19c471598037182; expires=Sun, 20-Sep-20 19:13:02 GMT; path=/; domain=.123moviesok.org; HttpOnly; SameSite=Lax
+Location: https://123movies2020.org/
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4095f6400001ac064b6f200000001
+Server:

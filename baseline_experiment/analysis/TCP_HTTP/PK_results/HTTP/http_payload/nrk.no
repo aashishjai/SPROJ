@@ -1,0 +1,6 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://nrk.no/
+Date: Fri, 21 Aug 2020 19:16:28 GMT
+Connection: close
+

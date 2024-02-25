@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Fri, 21 Aug 2020 18:52:31 GMT
+Content-Length: 0
+Connection: close
+location: https://lnk.to/
+cache-control: no-cache
+

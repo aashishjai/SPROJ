@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:57:57 GMT
+Server: Apache
+Location: http://matome.naver.jp
+Content-Length: 230
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://matome.naver.jp">here</a>.</p>
+</body></html>
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:57:57 GMT
+Server: Apache
+Location: http://matome.naver.jp
+Content-Length: 230
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://matome.naver.jp">here</a>.</p>
+</body></html>

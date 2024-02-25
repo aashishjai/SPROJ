@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:22:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc502c2388335c8263cb3384feeded2171598037759; expires=Sun, 20-Sep-20 19:22:39 GMT; path=/; domain=.propakistani.pk; HttpOnly; SameSite=Lax
+Location: https://propakistani.pk/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4122d4f0000d3e7f5928200000001
+Server: cloudflare
+CF-RAY: 5c66b95bbf96d3e7-KHI
+alt-svc: h2=":443"; ma=60
+
+9b
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:22:39 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc502c2388335c8263cb3384feeded2171598037759; expires=Sun, 20-Sep-20 19:22:39 GMT; path=/; domain=.propakistani.pk; HttpOnly; SameSite=Lax
+Location: https://propakistani.pk/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4122d4f0000d3e7f5928200000001
+Server: cloudflare
+CF-RAY: 5c66b95bbf96d3e7-KHI
+alt-svc: h2=":443"; ma=60
+
+9b
+<html>
+<head><title>301 Moved Permanently

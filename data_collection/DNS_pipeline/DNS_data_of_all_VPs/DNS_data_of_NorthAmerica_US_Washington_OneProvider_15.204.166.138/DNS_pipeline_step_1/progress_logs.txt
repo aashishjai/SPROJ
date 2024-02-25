@@ -1,0 +1,18 @@
+Resolving domains through BIND server. Time below show when BIND server started domain resolution! 
+Wed 06 Dec 2023 09:22:46 PM CET
+Bind server has categorized domains into resolved and unresolved domains! Time below show time taken by Bind server
+Wed 06 Dec 2023 09:22:48 PM CET
+IP below shows IP of machine when BIND server finished resolution process. This info helps check if VPNs were working
+15.204.166.138
+Custom resolver found auth servers for first time. Time to wait for 9 seconds
+Finding auth servers now 2nd time. Time below show start of second attempt of custom resolver
+Wed 06 Dec 2023 09:26:32 PM CET
+Custom resolver found auth servers for second time. Time to wait for 300 seconds. Time below shows time taken by second attempt
+Wed 06 Dec 2023 09:26:33 PM CET
+Custom resolver found auth servers for third time
+DNS STEP 1 done! Time below show when 3 runs to find auth servers completed
+Wed 06 Dec 2023 09:26:43 PM CET
+IP below shows IP of machine when custom resolver finished its work. This info helps check if VPNs were working
+15.204.166.138
+Its time to start step 2 where we will do DNS traceroute and fake spoofing check
+All done!

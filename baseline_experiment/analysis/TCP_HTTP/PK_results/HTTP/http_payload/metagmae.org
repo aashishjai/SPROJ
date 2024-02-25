@@ -1,0 +1,93 @@
+
+<head>
+<meta charset="utf-8">
+<title>Home</title>
+<link href="allstyle.css" rel="stylesheet">
+<link href="style1.css" rel="stylesheet">
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;nextstat?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternHTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:05:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc127b104ac9442ade180003b2dc9856f1598036758; expires=Sun, 20-Sep-20 19:05:58 GMT; path=/; domain=.metagmae.org; HttpOnly; SameSite=Lax
+Last-Modified: Mon, 16 Mar 2020 13:23:02 GMT
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b402e6c20000d3fb06a3d200000001
+Server: cloudflare
+CF-RAY: 5c66a0eada52d3fb-KHI
+alt-svc: h2=":443"; ma=60
+
+2803
+<!doctype html>
+<html></div>
+<div id="Layer2" style="position:absolute;text-align:left;left:2px;top:30px;width:753px;height:248px;z-index:10;">
+<div id="wb_Text2" style="position:absolute;left:10px;top:188px;width:301px;height:32px;z-index:0;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><strong>Over 20 Million People Were On Steam Today, Because What Else Are We Going To Do</strong></span></div>
+<div id="wb_Text1" style="position:absolute;left:323px;top:13px;width:416px;height:224px;text-align:justify;z-index:1;">
+<span style="cet-->
+</head>
+<body>
+<div id="container">
+<div id="Layer1" style="position:absolute;text-align:left;left:0px;top:0px;width:1200px;height:1203px;z-index:29;">
+<div id="wb_CssMenu1" style="position:absolute;left:2px;top:2px;width:252px;height:28px;z-index:9;">
+<ul role="menubar">
+<li class="firstmain"><a role="menuitem" href="./index.html" target="_self">Home</a>
+</li>
+<li><a role="menuitem" href="./page.html" target="_self">Page</a>
+</li>
+<li><a role="menuitem" href="./about.html" target="_self">About</a>
+</li>
+</ul>
+olor:#000000;font-family:Arial;font-size:13px;">With more and more folks around the world being asked to work and stay at home, it’s probably to be expected that Steam would get a workout. But even taking that into account, these numbers from the last 24 hours are something else. Earlier today, Valve’s service set a new concurrent user record with just over 20 million people logged in, with a peak of just under 6.4 million actively playing a game. Of that 6.4 million, just over 1 million were playing a single game: Counter-Strike, which itself set a new record over the past two days, passing that seven-figure milestone for the first time in its history. The other top games being played were DOTA 2 (700k), Rainbow Six Siege (196k), Path of Exile (115k) and Grand Theft Auto V (173k). All of which are big, big numbers, but as this coronavirus lockdown continues to deepen, we can probably expect them to be broken in the days ahead. Then broken again, repeatedly.</span></div>
+<picture id="wb_Picture1" style="position:absolute;left:10px;top:13px;width:300pxwill unlock one of the previous Archives Brawls, with two special challenge missions attached for each. Overwatch Archives 2020 will last through April 2. The star of the show, as usual, are the new cosmetics that you can earn by participating in the limited-time event. This year the weekly challenge rewards include three Epic skins: Holi Symmetra, Rustclad Torbjorn, and Bear Mei. There are also five new Legendary skins and other cosmetics to unlock, via purchase or loot box. You can see some of the cosmetic items below. The Overw;height:169px;z-index:2">
+<img src="images/1.png" id="Picture1" alt="" srcset="">
+</picture>
+</div>
+<div id="Layer3" style="position:absolute;text-align:left;left:764px;top:43px;width:421px;height:595px;z-index:11;">
+<div id="wb_Text3" style="position:absolute;left:9px;top:259px;width:403px;height:336px;text-align:justify;z-index:3;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Blizzard has begun its Overwatch Archives 2020 event, and this year the game is revisiting some of its previous stories. Each week atch Archives events have been a chance for Blizzard to fill out the world of Overwatch with additional details about characters and backstory. This year's Archives revisits old ones, so it may not add much new to the lore, but then Blizzard is also at work on a major expansion of its story with Overwatch 2. Meanwhile, Overwatch esports have been put on hiatus due to the coronavirus pandemic, as Overwatch League recently announced it would be suspending all events for two months. That came amid several cancellations of high-profile gaming and esports events, including E3 2020, aimed at slowing the transmission of the virus via social distancing.</span></div>
+<div id="wb_Text4" style="position:absolute;left:10px;top:238px;width:311px;height:16px;z-index:4;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><strong>Overwatch Archives 2020 Is Live With New Skins</strong></span></div>
+<picture id="wb_Picture2" style="position:absolute;left:0px;top:0px;width:420px;height:234px;z-index:5">
+<img src="images/2.png" id="Picture2" alt="" srcset="">
+</picture>
+</div>
+<div id="Layer4" style="position:absolute;text-align:left;left:12px;top:277px;width:752px;height:330px;z-index:12;">
+<picture id="wb_Picture3" style="position:absolute;left:10px;top:12px;width:496px;height:209px;z-index:6">
+<img src="images/3.png" id="Picture3" alt="" srcset="">
+</picture>
+<div id="wb_Text5" style="position:absolute;left:520px;top:10px;width:223px;height:320px;text-align:justify;z-index:7;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Both Baldur's Gate 1 and 2 were based on the Advanced Dungeons and Dragons 2nd Edition, while Baldur's Gate 3 will be based on 5th Edition: a more accessible ruleset that has led to a huge boost in DnD's popularity. Vincke has previously referred to Baldur's Gate 3 as a 5th Edition campaign where Larian is the player's dungeon master, and the AMA reveals just how much effort has gone into adapting the DnD rulebook. Some key takeaways from the AMA include that all 12 classes in the 5th Edition rulebook will be playable in Baldur's Gate 3, though only half--Cleric, Fighter, Ranger, Rogue, Warlock, and Wizard--will be in the early access launch.<br></span></div>
+<div id="wb_Text6" style="position:absolute;left:10px;top:230px;width:496px;height:96px;z-index:8;">
+<span style="color:#000000;font-family:Arial;font-size:27px;"><strong>Baldur's Gate 3 Devs Reveal How The Game Relates To Its Predecessors</strong></span></div>
+</div>
+<picture id="wb_Picture4" style="position:absolute;left:22px;top:597px;width:733px;height:411px;z-index:13">
+<img src="images/4.jpg" id="Picture4" alt="" srcset="">
+</picture>
+<div id="wb_Text7" style="position:absolute;left:774px;top:638px;width:410px;height:58px;z-index:14;">
+<span style="color:#000000;font-family:Arial;font-size:24px;"><strong>All Movie Theaters In Los Angeles And New York Will Close</strong></span></div>
+<div id="wb_Text8" style="position:absolute;left:773px;top:707px;width:412px;height:224px;text-align:justify;z-index:15;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Keen moviegoers will have to satisfy themselves with films they can stream at home, as New York Mayor Bill de Blasio and Los Angeles Mayor Eric Garcetti have ordered all cinemas to close in the two bustling cities, according to the Hollywood Reporter. This move will include New York's AMC Empire, the top grossing cinema in the USA, as well as venues such as nightclubs and concert venues in New York, and gyms, bars, and arcades in Los Angeles. The closures will officially come into effect as of 9 AM on March 17, but even prior to this announcement attendance at cinemas was at a historic low. The collective box ofHTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:05:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc127b104ac9442ade180003b2dc9856f1598036758; expires=Sun, 20-Sep-20 19:05:58 GMT; path=/; domain=.metagmae.org; HttpOnly; SameSite=Lax
+Last-Modified: Mon, 16 Mar 2020 13:23:02 GMT
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b402e6c20000d3fb06a3d200000001
+Server: cloudflare
+CF-RAY: 5c66a0eada52d3fb-KHI
+alt-svc: h2=":443"; ma=60
+
+2803
+<!doctype html>
+<html>

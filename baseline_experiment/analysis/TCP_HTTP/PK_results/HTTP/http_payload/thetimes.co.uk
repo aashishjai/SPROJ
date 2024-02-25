@@ -1,0 +1,16 @@
+HTTP/1.1 307 Temporary Redirect
+Server: openresty/1.11.2.3
+Date: Fri, 21 Aug 2020 19:11:08 GMT
+Content-Type: text/html
+Content-Length: 193
+Connection: close
+Location: https://thetimes.co.uk/
+Cache-Control: max-age=60
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body bgcolor="white">
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>openresty/1.11.2.3</center>
+</body>
+</html>

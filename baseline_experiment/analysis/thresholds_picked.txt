@@ -1,0 +1,47 @@
+dns_from_control N:  97
+FN:  4.123711340206185  Threshold:  1
+FN:  1.0309278350515463  Threshold:  2
+Threshold Picked: 2
+
+tcp_control N:  607
+FN:  6.260296540362438  Threshold:  1
+FN:  1.4827018121911038  Threshold:  2
+FN:  0.16474464579901155  Threshold:  3
+Threshold Picked: 3
+
+http_control N:  471
+FN:  4.8832271762208075  Threshold:  1
+FN:  1.48619957537155  Threshold:  2
+FN:  0.6369426751592357  Threshold:  3
+Threshold Picked: 3
+
+tcp_test_cdn N:  658
+FN:  3.951367781155015  Threshold:  1
+FN:  2.43161094224924  Threshold:  2
+FN:  2.127659574468085  Threshold:  3
+FN:  1.0638297872340425  Threshold:  4
+Threshold Picked: 4
+
+http_test_cdn N:  613
+FN:  3.915171288743882  Threshold:  1
+FN:  2.936378466557912  Threshold:  2
+FN:  2.6101141924959217  Threshold:  3
+FN:  1.468189233278956  Threshold:  4
+FN:  0.9787928221859705  Threshold:  5
+Threshold Picked: 5
+
+tcp_test_non_cdn N:  191
+FN:  15.706806282722512  Threshold:  1
+FN:  7.329842931937172  Threshold:  2
+FN:  3.1413612565445024  Threshold:  3
+FN:  1.0471204188481675  Threshold:  4
+Threshold Picked: 4
+
+http_test_non_cdn N:  169
+FN:  25.443786982248522  Threshold:  1
+FN:  18.93491124260355  Threshold:  2
+FN:  15.384615384615385  Threshold:  3
+FN:  3.5502958579881656  Threshold:  4
+FN:  0.591715976331361  Threshold:  5
+Threshold Picked: 5
+

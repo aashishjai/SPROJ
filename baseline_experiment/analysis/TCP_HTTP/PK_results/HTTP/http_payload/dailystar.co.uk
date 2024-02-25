@@ -1,0 +1,18 @@
+></html>
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 21 Aug 2020 18:50:51 GMT
+Location: https://www.dailystar.co.uk/
+Server: Apache/2.4.18 (root)
+Content-Length: 317
+Connection: Close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.dailystar.co.uk/">here</a>.</p>
+<hr>
+<address>Apache/2.4.18 (root) Server at dailystar.co.uk Port 80</address>
+</body

@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+cache-control: no-cache, no-store, max-age=0
+connection: close
+content-length: 0
+date: Fri, 21 Aug 2020 18:51:45 GMT
+location: https://t.co/
+server: tsa_o
+x-connection-hash: 4e383059e2ec3ba5cdb5fb493dee1aaf
+x-response-time: 107
+

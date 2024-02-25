@@ -1,0 +1,8 @@
+,,n-1_error_summary,n-2_error_summary,n-3_error_summary,n-4_error_summary
+ASTERISK,False,334.0,308.0,290.0,288.0
+ASTERISK,True,192.0,306.0,146.0,151.0
+IP_NOT_FOUND_IN_MDA,False,59.0,100.0,144.0,170.0
+IP_NOT_FOUND_IN_MDA,True,380.0,273.0,445.0,461.0
+NO_ERROR,False,218.0,203.0,177.0,153.0
+NO_ERROR,True,98.0,89.0,77.0,55.0
+TRACE_TOO_SHORT,True,0.0,2.0,2.0,3.0

@@ -1,0 +1,19 @@
+HTTP/1.1 308 Unknown
+Content-Length: 0
+Connection: close
+Server: Varnish
+Retry-After: 0
+Location: https://www.khanacademy.org/
+Accept-Ranges: bytes
+Date: Fri, 21 Aug 2020 18:48:13 GMT
+Via: 1.1 varnish, 1.1 7fc523bcbf1287e7f81501c5c2687d67.cloudfront.net (CloudFront)
+X-Served-By: cache-dub4342-DUB
+X-Cache-Hits: 0
+X-Timer: S1598035694.935335,VS0,VE0
+Set-Cookie: KAVID=686375ee-75e6-47b4-9ddf-5a280d41165b; expires=Sun, 21 Aug 2022 18:48:13 GMT; path=/;
+Set-Cookie: gae_b_id=!$kHpuXeOSRWrdVlZG_6D8Mhyxm5q0iEbRekM0XNsRL1o.%qffg8e%1$a2FpZF80NTgwNjc1NDE1NTUxMjIyODAwMjcxMDYy; expires=Sat, 21 Aug 2021 18:48:13 GMT; httponly; Max-Age=31536000; Path=/
+X-Cloud-Trace-Context: b06ce9c4-249b-4f75-81bf-346662a549e7
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: DUB2-C1
+X-Amz-Cf-Id: Q55nWd-ccq31gG5zXaxisJFr8QOih25SCXjvXMOvG3YgZ95ggT__Ww==
+

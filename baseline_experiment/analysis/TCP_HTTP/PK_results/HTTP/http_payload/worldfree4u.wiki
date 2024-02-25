@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:21:38 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Fri, 21 Aug 2020 20:21:38 GMT
+Location: https://worldfree4u.wiki/
+cf-request-id: 04b41140960000d3fb0e26e200000001
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 5c66b7e0fd8ad3fb-KHI
+alt-svc: h2=":443"; ma=60
+
+0
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:21:38 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Fri, 21 Aug 2020 20:21:38 GMT
+Location: https://worldfree4u.wiki/
+cf-request-id: 04b41140960000d3fb0e26e200000001
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 5c66b7e0fd8ad3fb-KHI
+alt-svc: h2=":443"; ma=60
+
+0
+

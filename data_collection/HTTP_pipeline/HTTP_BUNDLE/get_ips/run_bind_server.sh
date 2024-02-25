@@ -1,0 +1,14 @@
+RESOLVER=$1
+sudo service bind9 restart
+echo 'Resolving domains through BIND server. Time below show when BIND server started domain resolution! ' >> progress_logs.txt
+date >> progress_logs.txt
+python ./step1_resolve_here/my_bind.py $RESOLVER
+cat step1_resolve_here/*fail* | awk '{print$1}' > step1_resolve_here/blocked_domains.txt
+touch ../active_set_IPs.txt
+cat step1_resolve_here/*success* > ../active_set_IPs.txt
+rm step1_resolve_here/*success*
+rm step1_resolve_here/*fail*
+echo 'Bind server has categorized domains into resolved and unresolved domains! Time below show time taken by Bind server' >> progress_logs.txt
+date >> progress_logs.txt
+echo "IP below shows IP of machine when BIND server finished resolution process. This info helps check if VPNs were working" >>progress_logs.txt
+dig +retry=5 +short myip.opendns.com @resolver1.opendns.com >> progress_logs.txt

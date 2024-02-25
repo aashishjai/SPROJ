@@ -1,0 +1,74 @@
+sohu.com	{'61.135.164.50': 'fv'}
+sina.com.cn	{'36.51.254.91': '15f,ideal plaza no.58 bei si huan xi road haidian district'}
+instagram.com	{'31.13.66.174': 'meta platforms ireland limited'}
+helvetas.ch	{'195.15.229.132': 'infomaniak network management'}
+anonymitychecker.com	{'3.64.163.50': 'amazon technologies inc.'}
+mastodon.host	{'163.172.7.58': 'scaleway'}
+facebook.com	{'31.13.66.35': 'meta platforms ireland limited'}
+live.com	{'204.79.197.212': 'microsoft corporation'}
+allahabadhighcourt.in	{'221.134.71.211': 'high court'}
+alt.com	{'69.165.107.22': 'friendfinder networks inc'}
+download.i2p2.de	{'193.150.121.26': 'org-sa5045-ripe'}
+kustar.ac.ae	{'185.76.131.26': 'khalifa university'}
+gaytoday.com	{'151.139.128.10': 'stackpath, llc.'}
+antivigilancia.org	{'107.174.220.10': 'hostpapa'}
+sexedlibrary.org	{'104.152.168.7': 'crocweb'}
+szabist.ac.ae	{'91.73.236.195': 'emirates integrated telecommunications company pjsc (eitc-du)'}
+ku.ac.ae	{'109.205.29.66': 'ankabut'}
+jackdaniels.com	{'12.154.101.30': 'at&t services, inc.'}
+webmasterhome.cn	{'125.90.93.11': 'maomingshiguanghuananluandadasha12lou'}
+icftu.org	{'208.91.197.132': 'confluence networks inc'}
+hindunet.org	{'52.89.115.194': 'amazon technologies inc.'}
+putlocker-hd.is	{'103.224.182.253': 'trellian pty. limited'}
+jl.gov.cn	{'111.26.224.43': 'china mobile'}
+exmormon.org	{'204.238.168.42': 'caldwell global communications, inc.'}
+sporttery.cn	{'203.107.44.133': 'aliyun computing co., ltd'}
+download.com	{'34.149.2.250': 'google llc'}
+ali213.info	{'34.98.99.30': 'google llc'}
+tingvoa.com	{'13.75.51.60': 'microsoft corporation'}
+weibo.com	{'36.51.224.126': '15f,ideal plaza no.58 bei si huan xi road haidian district', '36.51.224.123': '15f,ideal plaza no.58 bei si huan xi road haidian district'}
+wikipedia.org	{'208.80.154.224': 'wikimedia foundation inc.'}
+dvd-oasis.com	{'79.142.69.152': 'altushost switzerland'}
+moviestape.net	{'188.126.77.190': 'ispiria networks ltd'}
+yourconroenews.com	{'98.129.228.59': 'rackspace hosting'}
+bitcomet.com	{'161.97.135.85': 'ripe network coordination centre'}
+seattlepi.com	{'98.129.228.59': 'rackspace hosting'}
+soujianzhu.cn	{'203.107.45.167': 'aliyun computing co., ltd'}
+iwhc.org	{'15.197.142.173': 'amazon technologies inc.', '3.33.152.147': 'amazon technologies inc.'}
+islamdoor.com	{'104.21.90.167': 'cloudflare, inc.', '172.67.158.52': 'cloudflare, inc.'}
+beyondexgay.com	{'156.67.68.213': 'ripe network coordination centre'}
+mycommunity-center.com	{'132.148.77.117': 'godaddy.com, llc'}
+ppzuowen.com	{'47.99.236.29': 'asia pacific network information centre'}
+jd.com	{'211.144.27.126': 'china unicom, beijing branch', '211.144.24.218': 'china unicom, beijing branch', '111.13.149.108': 'china mobile', '106.39.171.134': 'chinanet beijing province network'}
+baidu.com	{'39.156.66.10': 'china mobile', '110.242.68.66': 'china unicom hebei province network'}
+qq.com	{'113.108.81.189': 'chinanet guangdong province network', '203.205.254.157': 'shenzhen tencent computer systems company limited', '123.150.76.218': 'chinanet tianjin province network'}
+radioislam.org	{'172.67.202.95': 'cloudflare, inc.', '104.21.44.177': 'cloudflare, inc.'}
+tmall.com	{'59.82.122.115': 'hangzhou alibaba advertising co.,ltd.', '106.11.226.158': 'zhejiang taobao network co.,ltd'}
+ufseeds.com	{'104.21.33.50': 'cloudflare, inc.', '172.67.141.103': 'cloudflare, inc.'}
+taobao.com	{'59.82.122.115': 'hangzhou alibaba advertising co.,ltd.', '106.11.226.158': 'zhejiang taobao network co.,ltd'}
+kbs-frb.be	{'104.22.76.99': 'cloudflare, inc.', '172.67.21.48': 'cloudflare, inc.', '104.22.77.99': 'cloudflare, inc.'}
+yandex.ru	{'5.255.255.77': 'yandex llc', '77.88.55.88': 'yandex llc', '5.255.255.70': 'yandex llc', '77.88.55.60': 'yandex llc'}
+extratorrent.cd	{'172.67.210.186': 'cloudflare, inc.', '104.21.45.62': 'cloudflare, inc.'}
+luxfilm.net	{'104.21.12.4': 'cloudflare, inc.', '172.67.150.231': 'cloudflare, inc.'}
+bagilagi.com	{'3.141.96.53': 'amazon technologies inc.', '3.20.137.44': 'amazon technologies inc.'}
+transsexual.org	{'192.119.106.241': 'hostwinds llc.'}
+tatasky.com	{'75.2.117.179': 'amazon.com, inc.', '99.83.137.245': 'amazon.com, inc.'}
+reddit.com	{'151.101.65.140': 'fastly, inc.', '151.101.1.140': 'fastly, inc.', '151.101.193.140': 'fastly, inc.', '151.101.129.140': 'fastly, inc.'}
+pxhere.com	{'172.67.70.214': 'cloudflare, inc.', '104.26.13.7': 'cloudflare, inc.', '104.26.12.7': 'cloudflare, inc.'}
+mp3juices.cc	{'154.82.111.77': 'tcloudnet, inc', '154.82.111.24': 'tcloudnet, inc'}
+twitter.com	{'104.244.42.65': 'twitter inc.', '104.244.42.1': 'twitter inc.', '104.244.42.193': 'twitter inc.', '104.244.42.129': 'twitter inc.'}
+honduras.com	{'54.192.51.74': 'amazon technologies inc.', '54.192.51.25': 'amazon technologies inc.', '54.192.51.129': 'amazon technologies inc.', '54.192.51.81': 'amazon technologies inc.'}
+youtube.com	{'142.250.31.91': 'google llc', '142.250.31.190': 'google llc', '142.250.31.136': 'google llc', '142.250.31.93': 'google llc'}
+amazon.com	{'52.94.236.248': 'amazon technologies inc.', '54.239.28.85': 'amazon technologies inc.', '205.251.242.103': 'amazon.com, inc.'}
+crazyshit.com	{'104.21.54.19': 'cloudflare, inc.', '172.67.222.130': 'cloudflare, inc.'}
+hanes.com	{'151.101.65.154': 'fastly, inc.', '151.101.129.154': 'fastly, inc.', '151.101.1.154': 'fastly, inc.', '151.101.193.154': 'fastly, inc.'}
+kyash.co	{'54.192.51.98': 'amazon technologies inc.', '54.192.51.94': 'amazon technologies inc.', '54.192.51.48': 'amazon technologies inc.', '54.192.51.76': 'amazon technologies inc.'}
+vk.com	{'87.240.132.67': 'vkontakte services', '87.240.132.72': 'vkontakte services', '87.240.132.78': 'vkontakte services', '87.240.137.164': 'vkontakte services', '93.186.225.194': 'vkontakte services', '87.240.129.133': 'vkontakte services'}
+google.com	{'172.253.63.138': 'google llc', '172.253.63.100': 'google llc', '172.253.63.113': 'google llc', '172.253.63.102': 'google llc', '172.253.63.101': 'google llc', '172.253.63.139': 'google llc'}
+wowway.com	{'104.16.200.25': 'cloudflare, inc.', '104.16.202.25': 'cloudflare, inc.', '104.16.199.25': 'cloudflare, inc.', '104.16.201.25': 'cloudflare, inc.', '104.16.203.25': 'cloudflare, inc.'}
+yahoo.com	{'98.137.11.163': 'oath holdings inc.', '74.6.231.21': 'oath holdings inc.', '74.6.231.20': 'oath holdings inc.', '74.6.143.25': 'oath holdings inc.', '74.6.143.26': 'oath holdings inc.', '98.137.11.164': 'oath holdings inc.'}
+chalo.pk	{'172.67.195.101': 'cloudflare, inc.', '104.21.12.187': 'cloudflare, inc.'}
+ixe.com.mx	{'192.100.234.56': 'latin american and caribbean ip address regional registry'}
+lanacion.com.ar	{'190.220.57.135': 'NOT-FOUND', '190.220.57.133': 'NOT-FOUND', '190.220.57.134': 'NOT-FOUND', '190.220.57.132': 'NOT-FOUND', 'ALL-IPs': 'NO-ORG-FOUND'}
+lanacion.com.ar	{'190.220.57.135': 'NOT-FOUND', '190.220.57.133': 'NOT-FOUND', '190.220.57.134': 'NOT-FOUND', '190.220.57.132': 'NOT-FOUND', 'ALL-IPs': 'NO-ORG-FOUND'}
+pornhub.com	{'66.254.114.41': 'reflected networks, inc.'}

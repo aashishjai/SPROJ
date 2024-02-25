@@ -1,0 +1,23 @@
+HTTP/1.1 301 Redirect
+Date: Fri, 21 Aug 2020 19:07:21 GMT
+Connection: close
+Cache-Control: no-store
+Location: https://www.yahoo.co.jp/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 306
+
+<HTML>
+<HEAD>
+<TITLE>Document Has Moved</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="white" FGCOLOR="black">
+<H1>Document Has Moved</H1>
+<HR>
+
+<FONT FACE="Helvetica,Arial"><B>
+Description: The document you requested has moved to a new location.  The new location is "https://www.yahoo.co.jp/".
+</B></FONT>
+<HR>
+</BODY>

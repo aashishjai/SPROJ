@@ -1,0 +1,142 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:55:55 GMT
+X-Varnish: 973051188
+X-Cache-src: vcl_synth
+Location: http://www.bild.de/
+Cache-Control: public
+Content-Type: text/html;charset=utf-8
+Server: Apache
+Content-Length: 1983
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head>
+<meta http-equiv="refresh" content="3;URL=http://www.bild.de/"/>
+<title>Weiterleitung / Redirect</title>
+<style type="text/css">
+<!--
+        * { margin: 0; padding: 0;}
+        html,gin: -150px 0 0 -250px;
+                height: 260px;
+                width: 460px;
+                padding: 14px 20px 26px;
+                border: 1px solid #ccc;
+                -webkit-box-shadow: 0 2px 6px #efefef;
+                -moz-box-shadow: 0 2px 3px #efefef;
+                box-shadow: 0 2px 3px #efefef;
+        }
+        h1 {
+                font-size: 22px;
+                color: #d00;
+                border-bottom: 1px solid #d00;
+                line-height: 24px;
+                margin: 0 0 15px;
+        padding: 0 0 5px;
+        }
+        h2 {
+                padding: 0 0 15px;
+        }
+        p {
+                line-height: 17px;
+                padding: 0 0 18px;
+        }
+        p strong {
+                color: #d00;
+        }
+        ul {
+                padding: 0 15px 19px;
+                line-height: 17px;
+        }
+        -->
+</style>
+</head>
+<body>
+        <div id="errorpage">
+                <h1>Weiterleitung / Redirect</h1>
+
+                <h2>Bitte besuchen Sie / please visit: <a href="http://www.bild.de/">http://www body {
+                font-family: Arial, Helvetica, Tahoma, sans-serif;
+                color: #000;
+                font-size: 13px;
+        }
+        a {
+                color: #d00;
+                text-decoration: underline;
+        }
+        a:hover,
+        a:active,
+        a:focus {
+                text-decoration: none;
+                color: #d00;
+        }
+        #errorpage {
+                background: #fff;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                mar.bild.de/</a></h2>
+
+                <p>Ihr <strong>BILD.de</strong> - Team</p>
+        </div>
+
+</body>
+</html>
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:55:55 GMT
+X-Varnish: 973051188
+X-Cache-src: vcl_synth
+Location: http://www.bild.de/
+Cache-Control: public
+Content-Type: text/html;charset=utf-8
+Server: Apache
+Content-Length: 1983
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head>
+<meta http-equiv="refresh" content="3;URL=http://www.bild.de/"/>
+<title>Weiterleitung / Redirect</title>
+<style type="text/css">
+<!--
+        * { margin: 0; padding: 0;}
+        html,HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:55:55 GMT
+X-Varnish: 973051188
+X-Cache-src: vcl_synth
+Location: http://www.bild.de/
+Cache-Control: public
+Content-Type: text/html;charset=utf-8
+Server: Apache
+Content-Length: 1983
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head>
+<meta http-equiv="refresh" content="3;URL=http://www.bild.de/"/>
+<title>Weiterleitung / Redirect</title>
+<style type="text/css">
+<!--
+        * { margin: 0; padding: 0;}
+        html,HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:55:55 GMT
+X-Varnish: 973051188
+X-Cache-src: vcl_synth
+Location: http://www.bild.de/
+Cache-Control: public
+Content-Type: text/html;charset=utf-8
+Server: Apache
+Content-Length: 1983
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head>
+<meta http-equiv="refresh" content="3;URL=http://www.bild.de/"/>
+<title>Weiterleitung / Redirect</title>
+<style type="text/css">
+<!--
+        * { margin: 0; padding: 0;}
+        html,

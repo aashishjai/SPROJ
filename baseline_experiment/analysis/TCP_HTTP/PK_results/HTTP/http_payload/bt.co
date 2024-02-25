@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: close
+Date: Fri, 21 Aug 2020 19:08:26 GMT
+Location: http://www.bt.co/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 8070396f8b32ef8fc0f9390bd6dee8df.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DUB2-C1
+X-Amz-Cf-Id: CHlshegzT5CrJUmVoIkUqj7WVVyOc_o8p3DwIP0eEg14xe6AfJ3f6Q==
+Age: 764
+

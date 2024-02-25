@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:09:22 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+Connection: close
+Set-Cookie: visid_incap_1988262=rLZmw4F7SXqwCC+jtTvJI+IbQF8AAAAAQUIPAAAAAACgb9V0v2ndw54wDJt6UOYh; expires=Sat, 21 Aug 2021 17:09:45 GMT; HttpOnly; path=/; Domain=.nus.edu.sg
+Set-Cookie: nlbi_1988262=jDN4VYFboQWQq9hoZsZkDgAAAAAO7z4Y2ZgTbUj4KNaEdnuj; path=/; Domain=.nus.edu

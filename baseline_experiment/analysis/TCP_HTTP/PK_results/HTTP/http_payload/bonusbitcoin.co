@@ -1,0 +1,158 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <base href="//bonusbitcoin.co/" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Bonus bitcoin - free bitcoin faucet">
+    <meta name="coinzilla" content="c1522d0fe66a65d81b680077caa9e254" />
+
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="icon" sizes="192x192" href="largeicon.png" /> 
+    <link rel="iHTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:18:49 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4d025c45c5e12b2ea8c298b89b63094b1598037529; expires=Sun, 20-Sep-20 19:18:49 GMT; path=/; domain=.bonusbitcoin.co; HttpOnly; SameSite=Lax
+Cache-Control: private
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b40eab430000d3efdc1f0200000001
+Server: cloudflare
+CF-RAY: 5c66b3bed8fdd3ef-KHI
+alt-svc: h2=":443"; ma=60
+
+3829ntent="http://bonusbitcoin.co/img/600x300.png" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+  con" sizes="128x128" href="smallicon.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="smallicon.png" />
+    <link rel="manifest" href="manifest.json">
+
+    <title>Bonus Bitcoin - free bitcoin faucet</title>
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+
+    <!-- CSS -->
+    <link href="/css/core?v=_5lFxdD9eSFIV9T4G7FDJczK2HNYFJE85Xi2MSErA_M1" rel="stylesheet">
+    <link href="/css/site?v=fBOWH81cmn3rAPZVxo8VegnAhIjjUvif3cKC6iOlGGY1" rel="stylesheet">
+
+    <!-- Facebook -->
+    <meta property="fb:app_id" content="1715727061980032" />   
+    
+    <!-- Open Graph -->       
+    <meta property="og:title" content="Bonus Bitcoin" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://bonusbitcoin.co/img/facebook.png" />
+    <meta property="og:url" content="http://bonusbitcoin.co" />
+    <meta property="og:description" content="Free bitcoin faucet. Claim every 15 minutes. Receive up to 5,000 satoshi per claim. Automatic 5% DAILY BONUS. Free withdrawals. 50% lifetime referral commission" />
+
+    <!--Twitter Summary Card-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@BonusBit" />
+    <meta name="twitter:title" content="Bonus Bitcoin" />
+    <meta name="twitter:description" content="Free bitcoin faucet. Claim every 15 minutes. Receive up to 5,000 satoshi per claim. Automatic 5% DAILY BONUS. Free withdrawals. 50% lifetime referral commission" />
+    <meta name="twitter:image" co          }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-49827542-7', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+        window.cookieconsent_options = { "message": "This website uses cookies to ensure you get the best experience on our website <a href='javascript:void(0)' onclick='$(\"#PrivacyPolicyPopup\").bPopup();'>More info</a>", "dismiss": "Got it!", "theme": "dark-bottom" };
+    </script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+
+    
+</head>
+
+<body style="padding:0px!important">
+    <!-- Page Content -->
+    
+    <div class="flexContainer">
+        <div class="firstPanel">
+            <div class="flexAd">
+                <div style="text-align:center;margin-top:10px">
+	                <!-- Coinzilla Banner 300x250 -->
+                    <script async src="https://coinzillatag.com/lib/display.js"></script>
+                    <div class="coinzilla" data-zone="C-9895c31fb235dd6c881"></div>
+                    <script>
+                        window.coinzilla_display = window.coinzilla_display || [];
+                        var c_display_preferences = {};
+                        c_display_preferences.zone = "9895c31fb235dd6c881";
+                        c_display_preferences.width = "300";
+                        c_display_preferences.height = "250";
+                        coinzilla_display.push(c_display_preferences);
+                    </script>
+                </div>      
+            </div>
+        </div>
+        <div class="mainPanel">
+            <img src="img/logo.png" width="320" />
+            <h1>Free bitcoin faucet</h1>
+            <button id="PageContent_RegisterButton" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#RegisterModal" style="width:150px">
+                Register            
+            </button>
+            <button id="PageContent_SignInButton" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#SignInModal" style="width:150px">
+                Sign in            
+            </button>
+            
+        </div>
+        <div class="lastPanel">
+            <div class="flexAd">
+                <div style="text-align:center">
+                    <iframe scrolling="no" frameborder="0" src="//mellowads.com/view/8AC8534EA866" style="overflow:hidden;width:300px;height:250px;"></iframe>
+                    <div>
+                        <a href="//mellowads.com/networkspace/8AC8534EA866" target="_blank">Advertise here</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h4 style="line-height:35px;text-align:center">
+        <span class="tooltip-ul-black nobr" data-toggle="tooltip" data-p
+        <img src="smallicon.png" height="16" />
+        <span class="tooltip-ul-black nobr" data-toggle="tooltip" data-placement="bottom" title="At the end of each day (midnight UTC) you will automatically get a 5% bonus added to your account, of all your faucet claims and referral commission earned over the previous 72 hours - provided you made at least one faucet claim during the previous day">Automatic <b>5% DAILY BONUS</b></span>
+        <img src="smallicon.png" height="16" />
+        <span class="tooltip-ul-black nobr" dlacement="bottom" title="Claim your free bitcoin from the faucet once every 15 minutes (per account and IP address)">Claim every 15 minutes</span>
+        <img src="smallicon.png" height="16" />
+        <span class="tooltip-ul-black nobr" data-toggle="tooltip" data-placement="bottom" title="For each claim that you make from the faucet you will receive a random amount of up to 5,000 satoshi. The average amount will vary depending on the current BTC/USD exchange rate and our ad income.">Receive up to 5,000 satoshi per claim</span>ata-toggle="tooltip" data-placement="bottom" title="You can request withdrawal at any time, so long as your balance is at least 10,000 satioshi. There is no fee for this. All withdrawal requests are processed and paid directly to your bitcoin wallet within 48 hours.">On demand, free withdrawals</span>
+        <img src="smallicon.png" height="16" />
+        <span class="tooltip-ul-black nobr" data-toggle="tooltip" data-placement="bottom" title="Ask your friends and colleagues to sign up using your referral link and receive 50% coHTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:18:49 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4d025c45c5e12b2ea8c298b89b63094b1598037529; expires=Sun, 20-Sep-20 19:18:49 GMT; path=/; domain=.bonusbitcoin.co; HttpOnly; SameSite=Lax
+Cache-Control: private
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b40eab430000d3efdc1f0200000001
+Server: cloudflare
+CF-RAY: 5c66b3bed8fdd3ef-KHI
+alt-svc: h2=":443"; ma=60
+
+3829

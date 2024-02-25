@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:59:39 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d2d44de7a13388c21388465b8f4e671191598036378; expires=Sun, 20-Sep-20 18:59:38 GMT; path=/; domain=.audacityteam.org; HttpOnly; SameSite=Lax
+Location: https://www.audacityteam.org/
+Accept-Ranges: bytes
+X-Varnish: 807113177 807064082
+Age: 14064
+Via: 1.1 varnish
+X-Cache: HIT
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b3fd1c20000018ca72937200000001
+Server: cloudflare
+CF-RAY: 5c6697a69e2018ca-SIN
+alt-svc: h2=":443"; ma=60
+
+ed
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.audacityteam.org/">here</a>.</p>
+</body></html>
+
+0
+

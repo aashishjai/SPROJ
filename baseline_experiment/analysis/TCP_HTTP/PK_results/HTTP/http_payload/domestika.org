@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+Server: awselb/2.0
+Date: Fri, 21 Aug 2020 18:52:46 GMT
+Location: https://www.domestika.org:443/
+X-Cache: Miss from cloudfront
+Via: 1.1 31b13957de20e73959fe258a3bed0892.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: r088XLrK4rSIa9ue3s7BILxmybqip01JJux7sv9eB-Txd9bEfhe1fg==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>

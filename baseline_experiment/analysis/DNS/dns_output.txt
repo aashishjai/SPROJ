@@ -1,0 +1,30 @@
+Total Simple Traces (Unique Servers): 413
+Complete Simple Traces: 401
+413
+Total unique servers: 413 413
+Total traces: 401
+Total traces with corresponding MDA trace: 393
+
+N-1 Analysis
+Total Analyzed: 393
+Found: 63
+Not Found: 154
+Sterik: 176
+TCP Trace Too Short: 0
+
+Merged MDA Trace Analysis
+Total Analyzed: 176
+LRI not found: 0
+Found in MDA: 34
+Not found in MDA: 142
+
+Total distances found: 63
+Total not found in MDA: 154
+N-1: 154
+LRI: 142
+N-1 Counts:
+Counter({1: 41, 0: 22})
+Backtracked Counts:
+Counter({1: 30, 2: 3, 7: 1})
+
+1/(41+22+30+3)

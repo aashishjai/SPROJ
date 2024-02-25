@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:22:57 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6770e97bcaed2b5e9e5a1e8daded95211598037777; expires=Sun, 20-Sep-20 19:22:57 GMT; path=/; domain=.dramacool9.co; HttpOnly; SameSite=Lax
+X-Pingback: http://www.dramacool9.co/xmlrpc.php
+Expires: Fri, 21 Aug 2020 20:22:57 GMT
+Cache-Control: max-age=3600
+Location: http://www.dramacool9.co/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b412749a0000d3fb15009200000001
+Server: cloudflare
+CF-RAY: 5c66b9cdce21d3fb-KHI
+alt-svc: h2=":443"; ma=60
+
+0
+

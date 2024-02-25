@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:16:47 GMT
+Content-Type: text/html
+Content-Length: 6868
+Connection: close
+Last-Modified: Thu, 29 Aug 2019 12:29:44 GMT
+Vary: Accept-Encoding
+ETag: "5d67c538-1ad4"
+Server: NetDNA-cache/2.2
+Expires: Sat, 22 Aug 2020 19:16:47 GMT
+Cache-Control: max-age=86400
+X-Cache: HIT
+Accept-Ranges: bytes
+

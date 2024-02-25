@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:13:26 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de998be26e1134eac4c4b47b433ad17f11598037206; expires=Sun, 20-Sep-20 19:13:26 GMT; path=/; domain=.creativecommons.org; HttpOnly; SameSite=Lax
+Location: https://creativecommons.org/
+Strict-Transport-Security: max-age=15768000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b409bd270000d3fb171af200000001
+Server: cloudflare
+CF-RAY: 5c66abdb7d35d3fb-KHI
+
+ab
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

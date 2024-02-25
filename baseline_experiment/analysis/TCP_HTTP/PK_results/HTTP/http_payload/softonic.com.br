@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+location: https://softonic.com.br/
+x-request-id: 6e46214e-c05d-443e-8183-6b291a5eaef7
+x-served-by: server-5b96899dcf-lsml5
+x-version: 1.3998.0
+x-xss-protection: 1
+x-frame-options: sameorigin
+content-security-policy: upgrade-insecure-requests
+content-type: text/html; charset=utf-8
+cache-control: no-cache
+content-length: 0
+date: Fri, 21 Aug 2020 18:58:22 GMT
+x-envoy-upstream-service-time: 6
+server: istio-envoy
+Via: 1.1 google
+Connection: close
+

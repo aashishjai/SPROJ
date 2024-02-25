@@ -1,0 +1,14 @@
+HTTP/1.1 301 TLS Redirect
+Date: Fri, 21 Aug 2020 18:54:57 GMT
+Server: Varnish
+X-Varnish: 148946945
+X-Cache: cp5009 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=21-Aug-2020;Path=/;HttpOnly;secure;Expires=Tue, 22 Sep 2020 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=21-Aug-2020;Path=/;Domain=.wikisource.org;HttpOnly;secure;Expires=Tue, 22 Sep 2020 12:00:00 GMT
+X-Client-IP: 58.65.173.14
+Location: https://wikisource.org/
+Content-Length: 0
+Connection: close
+

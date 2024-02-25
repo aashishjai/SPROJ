@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://pypi.org/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Fri, 21 Aug 2020 19:12:08 GMT
+Connection: close
+X-Served-By: cache-sin18031-SIN
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1598037129.714194,VS0,VE0
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+

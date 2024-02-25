@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:03:51 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 229
+Connection: close
+Set-Cookie: AWSALB=ooFgIdQr15RwUy5//C9T+/AvGwqEUjJQWYaZMgnnBDHWwxxXGnmJA3M/uM4XUmZig1CgC/t1Xh+Fr6TTJEYv0YhYHdJIIN7CXKFkSNtzk9SY4xyc+WXiVMFoE/1F; Expires=Fri, 28 Aug 2020 19:03:51 GMT; Path=/
+Set-Cookie: AWSALBCORS=ooFgIdQr15RwUy5//C9T+/AvGwqEUjJQWYaZMgnnBDHWwxxXGnmJA3M/uM4XUmZig1CgC/t1Xh+Fr6TTJEYv0YhYHdJIIN7CXKFkSNtzk9SY4xyc+WXiVMFoE/1F; Expires=Fri, 28 Aug 2020 19:03:51 GMT; Path=/; SameSite=None
+Server: Apache
+Location: https://beforward.jp/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://beforward.jp/">here</a>.</p>
+</body></html>

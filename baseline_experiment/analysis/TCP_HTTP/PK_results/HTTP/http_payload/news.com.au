@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.news.com.au/
+Date: Fri, 21 Aug 2020 19:11:41 GMT
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.news.com.au/
+Date: Fri, 21 Aug 2020 19:11:41 GMT
+Connection: close
+

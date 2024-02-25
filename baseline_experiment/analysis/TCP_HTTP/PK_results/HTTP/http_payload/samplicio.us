@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Fri, 21 Aug 2020 19:16:07 GMT
+ETag: "059a232a7c7cf1:0"
+Last-Modified: Wed, 03 Sep 2014 18:45:14 GMT
+Server: nginx/1.4.6 (root)
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+Content-Length: 850
+Connection: Close
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<script type="text/javascript" >
+	    var sURL = document.URL.toLowerCase();
+	    if (sURL.indexOf("surveys.cint.com") != -1) {
+	        window.loca

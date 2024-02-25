@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 21 Aug 2020 03:32:33 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 226
+X-Content-Type-Options: nosniff
+Location: https://uiowa.edu/
+Cache-Control: max-age=1209600
+Expires: Fri, 04 Sep 2020 03:32:33 GMT
+X-Request-ID: v-f357f36a-e35e-11ea-a719-3355eafdac43
+Age: 55320
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 2239
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://uiowa.edu/">here</a>.</p>
+</body></html>

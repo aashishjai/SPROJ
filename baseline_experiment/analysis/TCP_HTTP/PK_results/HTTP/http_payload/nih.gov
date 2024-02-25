@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 14 Aug 2020 13:58:47 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 224
+X-Content-Type-Options: nosniff
+Location: https://nih.gov/
+Cache-Control: max-age=1209600
+Expires: Fri, 28 Aug 2020 13:58:47 GMT
+X-Request-ID: v-45ce11ac-de36-11ea-b08c-cf00eba6a132
+Age: 623264
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 717484
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://nih.gov/">here</a>.</p>
+</body></html>

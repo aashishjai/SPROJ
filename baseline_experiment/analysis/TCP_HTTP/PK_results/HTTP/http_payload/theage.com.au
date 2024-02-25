@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 234
+Connection: close
+Date: Fri, 21 Aug 2020 15:05:32 GMT
+Location: https://www.theage.com.au/
+Server: Apache/2.4.7 (root)
+X-Cache: Hit from cloudfront
+Via: 1.1 e44a3f4290e9b49117e796bebc291d9a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: fpS5HQdsjkpV4xxKO6bxTaW66GxCz1jP_Y-yFFb0ixyGWG0IIc4J9g==
+Age: 14045
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.theage.com.au/">here</a>.</p>
+</body></html>

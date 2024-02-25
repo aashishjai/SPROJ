@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Date: Fri, 21 Aug 2020 19:26:21 GMT
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d33729f2608c3be43cb0ac0f84809f93e1598037980; expires=Sun, 20-Sep-20 19:26:20 GMT; path=/; domain=.bungie.net; HttpOnly; SameSite=Lax
+Location: https://bungie.net/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4158df60000d3fb1f806200000001
+Server: cloudflare
+CF-RAY: 5c66bec32845d3fb-KHI
+
+0
+

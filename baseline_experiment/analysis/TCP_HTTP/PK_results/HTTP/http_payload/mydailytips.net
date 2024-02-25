@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Fri, 21 Aug 2020 19:22:24 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df1bde4245d56e93140ee957300c9529d1598037744; expires=Sun, 20-Sep-20 19:22:24 GMT; path=/; domain=.mydailytips.net; HttpOnly; SameSite=Lax
+Last-Modified: Fri, 19 Jun 2020 09:09:31 GMT
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b411f4780000d3eb6d94d200000001
+Server: cloudflare
+CF-RAY: 5c66b900ce8cd3eb-KHI
+alt-svc: h2=":443"; ma=60
+
+a33
+<!DOCTYPE html>
+
+<html

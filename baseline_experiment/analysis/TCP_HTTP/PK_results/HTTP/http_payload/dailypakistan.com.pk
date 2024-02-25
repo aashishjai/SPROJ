@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:56:08 GMT
+Server: Varnish
+X-Varnish: 1058340121
+Location: https://dailypakistan.com.pk/
+Content-Length: 0
+Connection: close
+

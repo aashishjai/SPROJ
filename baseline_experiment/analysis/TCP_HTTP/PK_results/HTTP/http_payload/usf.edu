@@ -1,0 +1,17 @@
+HTTP/1.1 302 Found
+Date: Fri, 21 Aug 2020 19:03:48 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: http://www.usf.edu/
+Content-Length: 276
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://www.usf.edu/">here</a>.</p>
+<hr>
+<address>Apache/2.2.15 (CentOS) Server at usf.edu Port 80</address>
+</body></html>

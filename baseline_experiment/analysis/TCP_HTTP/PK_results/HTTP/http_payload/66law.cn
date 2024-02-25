@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:11:32 GMT
+Content-Type: text/html
+Content-Length: 241
+Connection: close
+Location: https://www.66law.cn/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr/>Powered by HuaLv-FES<hr><center>tengine</center>
+</body>
+</html>

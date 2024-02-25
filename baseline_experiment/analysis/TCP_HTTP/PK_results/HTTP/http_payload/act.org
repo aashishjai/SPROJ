@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 227
+Connection: close
+Cache-Control: no-cache="set-cookie"
+Date: Fri, 21 Aug 2020 19:25:06 GMT
+Location: http://www.act.org/
+Server: Apache
+X-Dispatcher: dispatcher1useast1
+X-Vhost: publish
+X-Cache: Miss from cloudfront
+Via: 1.1 aa1f30b4e63a002f0d73f935e5ebc5b8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: Nnp92AhdKkfp7EmRtCv0MEwxP-YeCX94cqFL-c5qpziff9ukKxrrww==
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.act.org/">here</a>.</p>
+</body></html>

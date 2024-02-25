@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 21 Aug 2020 18:55:01 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 22 Aug 2020 20:56:53 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: c99de94e-a425-49fc-aa64-01f8f5fe7fbd
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=c0bc25ec-9a98-45bc-87ce-4a42832325d4; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; Secure
+Set-Cookie: trrgeo=33.6007%7C73.0679%7CAMARPURA%7CPANYAB%7CPK%7C1; Domain=terra.com.br; expires=Sat, 22 Aug 2020 18:55:01 GMT; Secure
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Edge-Cache-Status: MISS
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.terra.com.br/">here</a>.</p>
+</body></html>
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 21 Aug 2020 18:55:01 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 22 Aug 2020 20:56:53 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: c99de94e-a425-49fc-aa64-01f8f5fe7fbd
+Vary: Accept-Encoding
+Set-Cookie: X-XAct-ID=c0bc25ec-9a98-45bc-87ce-4a42832325d4; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; S

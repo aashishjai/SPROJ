@@ -1,0 +1,7 @@
+sudo apt install whois
+sudo apt install pip
+pip install dnspython
+
+
+there needs to be a time delay between running the injection initial and then result. this is so that the run bash file runs
+interesting thing to note is that in the US server, the country we were getting was FR

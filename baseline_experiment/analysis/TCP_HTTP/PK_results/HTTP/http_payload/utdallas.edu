@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Date: Fri, 21 Aug 2020 18:54:22 GMT
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d5632762c7527626e9707403de07a02601598036061; expires=Sun, 20-Sep-20 18:54:21 GMT; path=/; domain=.utdallas.edu; HttpOnly; SameSite=Lax
+Location: https://utdallas.edu/
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b3f846710000d3f77d376200000001
+Server: cloudflare
+CF-RAY: 5c668fea4868d3f7-KHI
+

@@ -1,0 +1,36 @@
+HTTP/1.1 302 https://tfl.gov.uk/
+Date: Fri, 21 Aug 2020 19:17:02 GMT
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d6d9f1f623fffef5044d97823e1afbc3a1598037421; expires=Sun, 20-Sep-20 19:17:01 GMT; path=/; domain=.tfl.gov.uk; HttpOnly; SameSite=Lax
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: , s-maxage=
+Location: https://tfl.gov.uk/
+Via: 1.1 varnish
+X-Banning: 
+X-Cache: MISS
+X-Proxy-Connection: unset
+X-Varnish: 329937347
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b40d0580000012baebbea200000001
+Server: cloudflare
+CF-RAY: 5c66b11c097a12ba-DXB
+
+HTTP/1.1 302 https://tfl.gov.uk/
+Date: Fri, 21 Aug 2020 19:17:02 GMT
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d6d9f1f623fffef5044d97823e1afbc3a1598037421; expires=Sun, 20-Sep-20 19:17:01 GMT; path=/; domain=.tfl.gov.uk; HttpOnly; SameSite=Lax
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: , s-maxage=
+Location: https://tfl.gov.uk/
+Via: 1.1 varnish
+X-Banning: 
+X-Cache: MISS
+X-Proxy-Connection: unset
+X-Varnish: 329937347
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b40d0580000012baebbea200000001
+Server: cloud

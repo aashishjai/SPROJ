@@ -1,0 +1,39 @@
+Total HTTP traces done: 1500
+Complete HTTP traces: 1155
+1155
+Trace too short: 2
+LRI Not Found: 4
+N-1: 698
+Backtracked: 451
+
+Total MDA traces: 1902
+Complete MDA traces: 1603
+N-1 Results
+Total: 698
+CDN IPs Found in MDA: 414
+Non-CDN IPs Found in MDA: 100
+Total IPs Found in MDA: 514
+IPs not found in MDA: 184
+
+Backtracked Merged Results
+Total: 451
+CDN IPs Found in MDA: 199
+Non-CDN IPs Found in MDA: 69
+Total IPs Found in MDA: 268
+IPs not found in MDA: 183
+
+Total Not Found from control: 1149
+Total Coverage from test: 782
+N-1 CDN Counts:
+Counter({1: 400, 4: 6, 0: 4, 5: 3, 3: 1})
+Backtracked CDN Counts:
+Counter({1: 185, 2: 6, 7: 4, 13: 2, 3: 1, 4: 1})
+
+N-1 Non-CDN Counts:
+Counter({1: 64, 4: 19, 0: 9, 5: 4, 3: 2, 11: 1, 2: 1})
+Backtracked Non-CDN Counts:
+Counter({1: 53, 2: 10, 3: 4, 5: 1, 4: 1})
+
+414+199
+
+(1+3+6+19+3+4+11)/613*100 = 7.66721044046

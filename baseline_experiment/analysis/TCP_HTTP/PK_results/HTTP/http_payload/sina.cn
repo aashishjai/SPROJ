@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:25:56 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: statuid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sina.cn
+Set-Cookie: statuidsrc=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sina.cn
+Set-Cookie: ustat=__58.65.173.14_1598037956_0.30281100; expires=Mon, 19-Aug-2030 19:25:56 GMT; Max-Age=315360000; path=/; domain=sina.cn
+Set-Cookie: genTime=1598037956; expires=Mon, 19-Aug-2030 19:25:56 GMT; Max-Age=315360000; path=/; domain=sina.cn
+Server: HHVM/3.9
+X-Frame-Options: SAMEORIGIN
+content-security-policy-report-only: default-src * 'unsafe-eval' 'unsafe-inline' blob: data:;frame-src 'self' sinaweibo: weibo.com *.weibo.com weibo.cn *.weibo.cn sina.com.cn *.sina.com.cn sina.cn *.sina.cn *.sinaimg.cn sinanews: sinanewslite: intent: se5bed38c567feb2a: sb5750862870e1cc2: sdc77698a60e45368: sb2623a3919ed77d3: s3d4cfbed31875e1c: sc876cbd9ae34e814: sdf08f19582289581: sc640c3792845ba3e: se8525a4dbfaa192b: sb5261983836bde16: sinablog: sinanewapmwebview: sinanewsdirect: sinafinance:; script-src 'self' 'unsafe-inline' 'unsafe-eval' weibo.com *.weibo.com weibo.cn *.weibo.cn sina.com.cn *.sina.com.cn sina.cn *.sina.cn *.sinaimg.cn *.qchannel03.cn *.qihucdn.com *.qhres.com *.sinajs.cn *.leju.com *.qq.com qzonestyle.gtimg.cn; report-uri https://logger.sina.cn/report;
+Strict-Transport-Security: max-age=604800
+Timing-Allow-Origin: *
+location: https://sina.cn/
+Cache-Control: no-cache
+
+0
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:25:56 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: statuid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sina.cn
+Set-Cookie: statuidsrc=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sina.cn
+Set-Cookie: ustat=__58.65.173.14_1598037956_0.30281100; expires=Mon, 19-Aug-2030 19:25:56 GMT; Max-Age=315360000; path=/; domain=sina.cn
+Set-Cookie: genTime=1598037956; e

@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 21 Aug 2020 18:58:24 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://umd.edu/
+X-Cache: Redirect from cloudfront
+Via: 1.1 05a90e634e0872685ad69ee9a4e0eba5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+X-Amz-Cf-Id: A78fAfTRrEWQ4XCdws1woZn7MNHrS3dgCBU_cW4K7MuItRv7_IE1rg==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

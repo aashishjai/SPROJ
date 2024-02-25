@@ -1,0 +1,16 @@
+data_collection/__pycache__/*
+
+data_collection/.vscode/settings.json
+.vscode/*
+
+*.pyc 
+
+# TexMaker related stuff
+*.aux
+*.bbl
+*.bib
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.pdf

@@ -1,0 +1,15 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Fri, 21 Aug 2020 19:03:28 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: close
+Location: https://poe.trade/
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

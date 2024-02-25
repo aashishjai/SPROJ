@@ -1,0 +1,7 @@
+We are now going to extract pcap trace for each website from large pcap trace. Time below shows when this process began
+Tue  8 Sep 03:13:09 PKT 2020
+Tue  8 Sep 03:40:56 PKT 2020
+Time above shows when breakdown of large pcap finished. We have traces now. Time below shows start of path stitching process.
+Tue  8 Sep 03:40:56 PKT 2020
+Path stitching process finished!
+Tue  8 Sep 03:45:30 PKT 2020

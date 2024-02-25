@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 21 Aug 2020 19:09:20 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://sainsburys.co.uk/
+X-Cache: Redirect from cloudfront
+Via: 1.1 286eb4b50e0acf373dd03645aee00b7f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA2-C2
+X-Amz-Cf-Id: EwNmMDg_AxfWK8VhR7Y8hNaFOM_hS-mujtNJAifEeO1lTxCPA20RHw==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

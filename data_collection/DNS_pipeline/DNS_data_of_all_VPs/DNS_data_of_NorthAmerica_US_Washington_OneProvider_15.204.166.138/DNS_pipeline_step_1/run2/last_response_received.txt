@@ -1,0 +1,5 @@
+secure.proxpn.com id 14654 opcode QUERY rcode NXDOMAIN flags QR AA RD ;QUESTION secure.proxpn.com. IN A ;ANSWER ;AUTHORITY proxpn.com. 3600 IN SOA nszero1.axc.nl. hostmaster.proxpn.com. 2023112104 10800 3600 604800 3600 ;ADDITIONAL
+search.privacytools.io id 31696 opcode QUERY rcode NXDOMAIN flags QR AA RD ;QUESTION search.privacytools.io. IN A ;ANSWER ;AUTHORITY privacytools.io. 1800 IN SOA eric.ns.cloudflare.com. dns.cloudflare.com. 2325791884 10000 2400 604800 1800 ;ADDITIONAL
+lyg.gov.cn id 39599 opcode QUERY rcode NOERROR flags QR AA RD RA ;QUESTION lyg.gov.cn. IN A ;ANSWER ;AUTHORITY lyg.gov.cn. 3600 IN SOA dns.lyg.gov.cn. hostmaster. 1557 900 600 86400 3600 ;ADDITIONAL
+npe.br id 33324 opcode QUERY rcode NXDOMAIN flags QR AA RD ;QUESTION npe.br. IN A ;ANSWER ;AUTHORITY br. 900 IN SOA a.dns.br. hostmaster.registro.br. 2023340490 1800 900 604800 900 ;ADDITIONAL
+desktx.cc id 45573 opcode QUERY rcode NXDOMAIN flags QR AA RD ;QUESTION desktx.cc. IN A ;ANSWER ;AUTHORITY cc. 86400 IN SOA ac1.nstld.com. info.verisign-grs.com. 1701894358 1800 900 604800 86400 ;ADDITIONAL

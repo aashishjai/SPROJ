@@ -1,0 +1,25 @@
+e>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://uts.edu.au/">here</a>.</p>
+</body></html>
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 21 Aug 2020 18:53:09 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 227
+X-Content-Type-Options: nosniff
+Location: https://uts.edu.au/
+Cache-Control: max-age=1209600
+Expires: Fri, 04 Sep 2020 18:53:09 GMT
+X-Request-ID: v-8e473f4a-e3df-11ea-b7b4-67c720bdf0cb
+X-Geo-Country: PK
+Vary: X-Geo-Country
+Age: 0
+Via: varnish
+X-Cache: MISS
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</titl

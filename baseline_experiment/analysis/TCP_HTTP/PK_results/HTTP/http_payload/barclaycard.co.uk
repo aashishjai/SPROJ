@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://barclaycard.co.uk/
+Date: Fri, 21 Aug 2020 19:22:13 GMT
+Connection: close
+X-Xss-Protection: 1;mode=block
+

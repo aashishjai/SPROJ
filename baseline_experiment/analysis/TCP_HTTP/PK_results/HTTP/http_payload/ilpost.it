@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 21 Aug 2020 18:52:31 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://ilpost.it/
+X-Cache: Redirect from cloudfront
+Via: 1.1 2fafd125a74df7ae1d2d1ff19f4b6cff.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: r17M9HAWZ2Co8ZQEYnI3c1ETVWHcdUOEfiaCYMg2I6ZqKOs7IZ9fxQ==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

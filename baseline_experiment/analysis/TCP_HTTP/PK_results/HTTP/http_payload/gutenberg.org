@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache
+Location: http://www.gutenberg.org/
+Content-Type: text/html; charset=iso-8859-1
+X-Powered-By: 1
+Content-Length: 300
+Date: Fri, 21 Aug 2020 19:19:53 GMT
+X-Varnish: 1264175441 1261957974
+Age: 92734
+Via: 1.1 varnish
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.gutenberg.org/">here</a>.</p>
+<hr>
+<address>Apache Server at www.gutenberg.org Port 80</address>
+</body></html>

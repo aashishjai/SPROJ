@@ -1,0 +1,4 @@
+secure.proxpn.com 185.182.56.120 secure.proxpn.com
+npe.br 200.219.159.10 npe.br
+lyg.gov.cn 61.132.0.10 lyg.gov.cn
+desktx.cc 192.42.175.30 desktx.cc

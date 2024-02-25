@@ -1,0 +1,22 @@
+Total unique servers: 1411
+Total HTTP traces done: 1500
+Complete HTTP traces: 1155
+HTTP traces with at least one reference trace: 1074
+
+N-1 Analysis
+Total Analyzed: 1074
+Found: 272
+Not Found: 413
+Sterik: 387
+TCP Trace Too Short: 2
+
+Merged MDA Trace Analysis
+Total Analyzed: 383
+LRI not found: 4
+Found in MDA: 199
+Not found in MDA: 184
+
+N-1 Counts:
+Counter({1: 183, 0: 87, 4: 1, 2: 1})
+Backtracked Counts:
+Counter({5: 51, 2: 43, 6: 35, 4: 18, 3: 13, 1: 12, 8: 7, 7: 7, 10: 4, 13: 3, 9: 3, 12: 2, 11: 1})

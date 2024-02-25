@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:12:22 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 229
+Connection: close
+Set-Cookie: DPX=v1:ALDcw+ehK8:uAhAT18e:5f402aab:de; Path=/; Expires=Fri, 21-Aug-20 20:12:22 GMT; HttpOnly
+Server: Apache
+Location: https://www.ionos.de/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.ionos.de/">here</a>.</p>
+</body></html>

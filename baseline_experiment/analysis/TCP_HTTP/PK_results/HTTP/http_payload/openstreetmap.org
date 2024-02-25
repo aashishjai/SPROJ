@@ -1,0 +1,20 @@
+he/2.4.41 (root) Server at openstreetmap.org Port 80</address>
+</body></html>
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 18:55:47 GMT
+Server: Apache/2.4.41 (root)
+Cache-Control: max-age=31536000
+Expires: Tue, 19 Jan 2038 03:14:07 GMT
+Location: https://openstreetmap.org/
+Content-Length: 317
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://openstreetmap.org/">here</a>.</p>
+<hr>
+<address>Apac

@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 21 Aug 2020 19:05:33 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://coursera.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 2db3123c4cefd91554a1875a9a4be618.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: 4Ump3ko_g0IvQECPO4mKxOx48r2dZFppj5RPmRjQ5bZ-BhxS35xUNA==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

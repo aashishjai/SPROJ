@@ -1,0 +1,13 @@
+HTTP/1.1 302 Object Moved
+Location: https://kaspi.kz/
+Content-Type: text/html
+Cache-Control: private
+Connection: close
+
+<head><body> This object may be found <a HREF="https://kaspi.kz/">here</a> </body>HTTP/1.1 302 Object Moved
+Location: https://kaspi.kz/
+Content-Type: text/html
+Cache-Control: private
+Connection: close
+
+<head><body> This object may be found <a HREF="https://kaspi.kz/">here</a> </body>

@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:26:18 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Fri, 21 Aug 2020 20:26:18 GMT
+Location: https://ondramanice.tv/
+cf-request-id: 04b415839c0000d3f3ee9ef200000001
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 5c66beb29875d3f3-KHI
+alt-svc: h2=":443"; ma=60
+
+0
+

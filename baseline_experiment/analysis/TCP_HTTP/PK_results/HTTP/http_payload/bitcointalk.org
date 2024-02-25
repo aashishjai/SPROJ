@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:10:01 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Fri, 21 Aug 2020 20:10:01 GMT
+Location: https://bitcointalk.org/
+cf-request-id: 04b4069b5f0000c359ab04a200000001
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 5c66a6d89e34c359-SIN
+
+0
+

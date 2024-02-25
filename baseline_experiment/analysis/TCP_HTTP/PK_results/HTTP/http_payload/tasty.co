@@ -1,0 +1,15 @@
+HTTP/1.1 301 HTTPS Redirect
+Retry-After: 0
+Content-Length: 0
+Location: https://tasty.co/
+Accept-Ranges: bytes
+Date: Fri, 21 Aug 2020 18:56:58 GMT
+Connection: close
+X-BF-cdn-url: /
+Set-Cookie: bf-geo-country=PK; expires=Sat, 22 Aug 2020 18:56:58 GMT; path=/; domain=tasty.co;
+Timing-Allow-Origin: *
+X-Served-By: cache-sin18022-SIN
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1598036219.858489,VS0,VE0
+

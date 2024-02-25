@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 21 Aug 2020 19:20:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9cd8d61aa056862f59dc18638526e6ce1598037636; expires=Sun, 20-Sep-20 19:20:36 GMT; path=/; domain=.residentadvisor.net; HttpOnly; SameSite=Lax
+Location: https://www.residentadvisor.net/
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src https:; connect-src https:; font-src https: data:; frame-src https: twitter:; frame-ancestors https:; img-src https: data:; media-src http: https:; object-src https:; script-src 'unsafe-inline' 'unsafe-eval' https:; style-src 'unsafe-inline' https:
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+CF-Cache-Status: DYNAMIC
+cf-request-id: 04b4104cd3000001e9eba50200000001
+Server: cloudflare
+CF-RAY: 5c66b65aeb0101e9-SIN
+
+9b
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://www.residentadvisor.net/">here</a></body>
+0
+

@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://mega.co.nz
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, MEGA-Chrome-Antileak
+Access-Control-Max-Age: 86400
+Connection: close
+

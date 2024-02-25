@@ -1,0 +1,3 @@
+1. Open "n-1_ip_not_found.txt" to look at list of not found domains and their servers
+2. Copy the domain name from the text file, and search for it in the "simple_traceroutes" folder to open its trace file
+3. Copy the "Server_IP", the second column in the "n-1_ip_not_found.txt" text file and search for it in the "reference_traces.json" file to get the trace for it. It's possible that the trace is incomplete from one vantage point but complete from the other.

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Aug 2020 18:49:28 GMT
+Content-Type: text/html
+Content-Length: 110
+Connection: close
+Last-Modified: Fri, 15 Jul 2016 17:45:21 GMT
+ETag: "57892131-6e"
+Age: 0
+Via: http/1.1 f003 (second)
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+
+<!DOCTYPE html><meta charset="utf-8"><title>pximg.net</title><p><a href="http://www.pixiv.net/">pixiv</a></p>

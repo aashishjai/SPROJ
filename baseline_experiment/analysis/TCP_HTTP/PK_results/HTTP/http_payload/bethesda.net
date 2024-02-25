@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Fri, 21 Aug 2020 18:58:26 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://bethesda.net/
+X-Cache: Redirect from cloudfront
+Via: 1.1 fea27bc7c6b866014db45f720775ef94.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FJR50-C1
+X-Amz-Cf-Id: RiBjlMu69Avtdq9-JQsvM1SRbUv0IqzP4C8sM7TgQUoA_G0bLI121Q==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

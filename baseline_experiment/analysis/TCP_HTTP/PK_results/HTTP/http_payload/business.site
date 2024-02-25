@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.google.com/business/how-it-works/website/
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Fri, 21 Aug 2020 19:26:42 GMT
+Expires: Fri, 21 Aug 2020 19:56:42 GMT
+Cache-Control: public, max-age=1800
+Server: sffe
+Content-Length: 250
+X-XSS-Protection: 0
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="https://www.google.com/business/how-it-works/website/">here</A>.
+</BODY></HTML>

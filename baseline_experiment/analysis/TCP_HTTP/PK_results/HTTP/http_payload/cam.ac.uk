@@ -1,0 +1,7 @@
+HTTP/1.1 301 Redirect
+Content-Type: text/plain
+Date: Fri, 21 Aug 2020 19:25:55 GMT
+Location: https://cam.ac.uk/
+Connection: close
+Content-Length: 0
+

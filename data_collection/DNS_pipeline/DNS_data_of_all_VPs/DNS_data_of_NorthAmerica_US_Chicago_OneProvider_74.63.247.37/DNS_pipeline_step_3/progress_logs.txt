@@ -1,0 +1,9 @@
+Stage 1: Time to find commands for scamper. Time below shows when experiment started
+Mon Nov 20 06:01:14 PST 2023
+stage 2 : now we calculate time until which TCP-DUMP should keep sniffing.
+stage 3 : TCP-DUMP starting in background...
+stage 4 : Scamper starts sending probes.
+Congrats! Data collection completed! Time below shows when experiment ended.
+Mon Nov 20 06:01:14 PST 2023
+IP below shows IP of machine when DNS step 4 completed. This info helps check if VPNs were working
+74.63.247.37
